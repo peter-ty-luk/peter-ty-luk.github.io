@@ -2,7 +2,7 @@
 List all your projects under your github page (i.e. https://<username>.github.io/) 
 The page is written in Angular and provided with search/filter tag function 
 
-## Create angular app and deploy to your github website
+## Create angular app and deploy to your github page
 ```bash
 # create new angular project
 ng new <project-name> 
