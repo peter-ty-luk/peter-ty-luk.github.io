@@ -10,7 +10,7 @@ ng new <project-name>
 cd <project-name>
 
 # add this project to github 
-git remote add origin https://github.com/<username>/<username>.github.io.git 
+git remote add origin https://github.com/`<username>`/`<username>`.github.io.git 
 
 # add angular-cli-ghpages to your project, it can help to deploy your app to github host
 ng add angular-cli-ghpages  
@@ -23,6 +23,6 @@ git checkout -b dev
 ng deploy --branch=master 
 ```
 
-Goto https://<username>.github.io/, you should see your angular project deployed
+Goto https://`<username>`.github.io/, you should see your angular project deployed
 
 ## edit your projects in projects.json
