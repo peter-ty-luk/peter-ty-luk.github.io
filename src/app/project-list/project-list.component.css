@@ -1,0 +1,25 @@
+.mat-table {
+    width: 90%;
+    margin-left:5%; 
+    margin-right:5%;
+}
+
+.mat-header-cell {
+    font-weight: bolder;
+}
+
+.mat-header-cell, .mat-cell {
+  padding: 10px 8px 8px 10px;
+}
+
+.mat-column-id {
+    flex: 0 1 200px;
+}
+
+.mat-column-desc {
+    flex: 0 1 500px;
+}
+
+.mat-chip {
+    font-size: 12px;
+}
