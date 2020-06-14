@@ -1,0 +1,45 @@
+[
+    {
+        "id": "spring-boot-rest-starter",
+        "description": "Starter springboot app with rest controller",
+        "technology": [
+            "java",
+            "springboot",
+            "rest",
+            "maven"
+        ]
+    },
+    {
+        "id": "spring-boot-oauth2",
+        "description": "Starter springboot app which user is authenticated with oauth2",        "technology": [
+            "java",
+            "springboot",
+            "rest",
+            "oauth2",
+            "jquery",
+            "maven"
+        ]
+    },
+    {
+        "id": "spring-boot-oauth2-db",
+        "description": "Starter springboot app which user is authenticated with oauth2 and db",
+        "technology": [
+            "java",
+            "springboot",
+            "rest",
+            "oauth2",
+            "db",
+            "h2",
+            "jquery",
+            "maven"
+        ]
+    },
+    {
+        "id": "peter-ty-luk.github.io",
+        "description": "Github page, i.e. this page",
+        "technology": [
+            "angular",
+            "angular material"
+        ]
+    }
+]
