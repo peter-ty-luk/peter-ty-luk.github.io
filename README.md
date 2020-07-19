@@ -19,7 +19,7 @@ ng add angular-cli-ghpages
 # create 'dev' branch
 git checkout -b dev 
 
-# deploy to master branch (instead of dev branch)
+# build, upload to github master branch (instead of dev branch)
 ng deploy --branch=master 
 ```
 
